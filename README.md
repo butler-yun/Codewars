@@ -1,6 +1,9 @@
 # Codewars
 Learn JavaScript
 
+## [7kyu]
+- [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)
+
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
 - [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
