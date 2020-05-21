@@ -5,6 +5,7 @@ Learn JavaScript
 - [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)
 - [Split In Parts](https://www.codewars.com/kata/5650ab06d11d675371000003)
 - [Sum even numbers](https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3)
+- [Sum of Minimums](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699)
 
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
