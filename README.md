@@ -12,3 +12,4 @@ Learn JavaScript
 - [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 - [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
 - [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095)
+- [Welcome](https://www.codewars.com/kata/577ff15ad648a14b780000e7)
