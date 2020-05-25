@@ -14,3 +14,4 @@ Learn JavaScript
 - [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
 - [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095)
 - [Welcome](https://www.codewars.com/kata/577ff15ad648a14b780000e7)
+- [Sum of Positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
