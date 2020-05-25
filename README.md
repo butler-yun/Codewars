@@ -6,6 +6,7 @@ Learn JavaScript
 - [Split In Parts](https://www.codewars.com/kata/5650ab06d11d675371000003)
 - [Sum even numbers](https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3)
 - [Sum of Minimums](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699)
+- [Greet Me](https://www.codewars.com/kata/535474308bb336c9980006f2)
 
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
