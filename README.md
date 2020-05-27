@@ -16,3 +16,4 @@ Learn JavaScript
 - [Welcome](https://www.codewars.com/kata/577ff15ad648a14b780000e7)
 - [Sum of Positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 - [Beginner Series #1 School Paperwork](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd)
+- [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131)
