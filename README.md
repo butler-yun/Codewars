@@ -7,6 +7,7 @@ Learn JavaScript
 - [Sum even numbers](https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3)
 - [Sum of Minimums](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699)
 - [Greet Me](https://www.codewars.com/kata/535474308bb336c9980006f2)
+- [Find min and max](https://www.codewars.com/kata/57a1ae8c7cb1f31e4e000130)
 
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
