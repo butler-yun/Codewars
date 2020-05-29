@@ -19,3 +19,4 @@ Learn JavaScript
 - [Beginner Series #1 School Paperwork](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd)
 - [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131)
 - [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)
+- [Take the Derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2)
