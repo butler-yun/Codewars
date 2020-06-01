@@ -21,3 +21,4 @@ Learn JavaScript
 - [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131)
 - [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)
 - [Take the Derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2)
+- [get ascii value of character](https://www.codewars.com/kata/55acfc59c3c23d230f00006d)
