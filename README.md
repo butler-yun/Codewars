@@ -23,3 +23,4 @@ Learn JavaScript
 - [Take the Derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2)
 - [get ascii value of character](https://www.codewars.com/kata/55acfc59c3c23d230f00006d)
 - [Reversed sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
+- [Triple Trouble](https://www.codewars.com/kata/5704aea738428f4d30000914)
