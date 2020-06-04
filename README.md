@@ -24,3 +24,4 @@ Learn JavaScript
 - [get ascii value of character](https://www.codewars.com/kata/55acfc59c3c23d230f00006d)
 - [Reversed sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
 - [Triple Trouble](https://www.codewars.com/kata/5704aea738428f4d30000914)
+- [Sum the Strings](https://www.codewars.com/kata/5966e33c4e686b508700002d)
