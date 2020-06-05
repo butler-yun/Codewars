@@ -25,3 +25,4 @@ Learn JavaScript
 - [Reversed sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
 - [Triple Trouble](https://www.codewars.com/kata/5704aea738428f4d30000914)
 - [Sum the Strings](https://www.codewars.com/kata/5966e33c4e686b508700002d)
+- [You only need one – Beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b)
