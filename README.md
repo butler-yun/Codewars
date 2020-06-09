@@ -9,6 +9,7 @@ Learn JavaScript
 - [Greet Me](https://www.codewars.com/kata/535474308bb336c9980006f2)
 - [Find min and max](https://www.codewars.com/kata/57a1ae8c7cb1f31e4e000130)
 - [My Languages](https://www.codewars.com/kata/5b16490986b6d336c900007d)
+- [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
 
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
