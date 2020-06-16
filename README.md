@@ -32,3 +32,4 @@ Learn JavaScript
 - [You only need one – Beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b)
 - [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 - [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
+- [Smallest unused ID](https://www.codewars.com/kata/55eea63119278d571d00006a)
