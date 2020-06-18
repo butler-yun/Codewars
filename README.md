@@ -13,6 +13,7 @@ Learn JavaScript
 - [The reject() function](https://www.codewars.com/kata/52988f3f7edba9839c00037d)
 - [Nth power rules them all!](https://www.codewars.com/kata/58aed2cafab8faca1d000e20)
 - [Say Hello!](https://www.codewars.com/kata/55955a48a4e9c1a77500005a)
+- [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
 
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
