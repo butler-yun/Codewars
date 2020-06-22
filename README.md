@@ -37,3 +37,4 @@ Learn JavaScript
 - [Smallest unused ID](https://www.codewars.com/kata/55eea63119278d571d00006a)
 - [Get Planet Name By ID](https://www.codewars.com/kata/515e188a311df01cba000003)
 - [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://www.codewars.com/kata/56efc695740d30f963000557)
+- [Polish alphabet](https://www.codewars.com/kata/57ab2d6072292dbf7c000039)
