@@ -39,3 +39,4 @@ Learn JavaScript
 - [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://www.codewars.com/kata/56efc695740d30f963000557)
 - [Polish alphabet](https://www.codewars.com/kata/57ab2d6072292dbf7c000039)
 - [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
+- [All Star Code Challenge #18](https://www.codewars.com/kata/5865918c6b569962950002a1)
