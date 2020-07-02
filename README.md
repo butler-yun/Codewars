@@ -40,3 +40,4 @@ Learn JavaScript
 - [Polish alphabet](https://www.codewars.com/kata/57ab2d6072292dbf7c000039)
 - [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
 - [All Star Code Challenge #18](https://www.codewars.com/kata/5865918c6b569962950002a1)
+- [Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
