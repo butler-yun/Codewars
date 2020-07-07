@@ -16,6 +16,7 @@ Learn JavaScript
 - [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
 - [Scrabble Score](https://www.codewars.com/kata/558fa34727c2d274c10000ae)
 - [Largest pair sum in array](https://www.codewars.com/kata/556196a6091a7e7f58000018)
+- [Round up to the next multiple of 5](https://www.codewars.com/kata/55d1d6d5955ec6365400006d)
 
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
