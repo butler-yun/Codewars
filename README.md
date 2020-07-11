@@ -21,6 +21,7 @@ Learn JavaScript
 - [Largest pair sum in array](https://www.codewars.com/kata/556196a6091a7e7f58000018)
 - [Round up to the next multiple of 5](https://www.codewars.com/kata/55d1d6d5955ec6365400006d)
 - [Longest vowel chain](https://www.codewars.com/kata/59c5f4e9d751df43cf000035)
+- [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040)
 
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
