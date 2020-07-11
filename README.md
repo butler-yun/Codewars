@@ -49,3 +49,4 @@ Learn JavaScript
 - [All Star Code Challenge #18](https://www.codewars.com/kata/5865918c6b569962950002a1)
 - [Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
 - [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+- [Check the exam](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
