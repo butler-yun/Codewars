@@ -52,3 +52,4 @@ Learn JavaScript
 - [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 - [Check the exam](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
 - [How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b)
+- [Filling an array (part 1)](https://www.codewars.com/kata/571d42206414b103dc0006a1)
