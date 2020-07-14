@@ -4,6 +4,7 @@ Learn JavaScript
 ## [6kyu]
 - [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 - [Reversing a Process](https://www.codewars.com/kata/5dad6e5264e25a001918a1fc)
+- [Encrypt this!](https://www.codewars.com/kata/5848565e273af816fb000449)
 
 ## [7kyu]
 - [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)
@@ -54,3 +55,4 @@ Learn JavaScript
 - [Check the exam](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
 - [How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b)
 - [Filling an array (part 1)](https://www.codewars.com/kata/571d42206414b103dc0006a1)
+- [Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
