@@ -25,6 +25,7 @@ Learn JavaScript
 - [Longest vowel chain](https://www.codewars.com/kata/59c5f4e9d751df43cf000035)
 - [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040)
 - [Indexed capitalization](https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1)
+- [Find Screen size](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f)
 
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
