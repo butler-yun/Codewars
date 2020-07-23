@@ -59,3 +59,4 @@ Learn JavaScript
 - [Filling an array (part 1)](https://www.codewars.com/kata/571d42206414b103dc0006a1)
 - [Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
 - [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79)
+- [Find Multiples of a Number](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
