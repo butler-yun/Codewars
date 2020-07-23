@@ -27,6 +27,7 @@ Learn JavaScript
 - [Indexed capitalization](https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1)
 - [Find Screen size](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f)
 - [Fix string case](https://www.codewars.com/kata/5b180e9fedaa564a7000009a)
+- [max diff - easy](https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095)
 
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
