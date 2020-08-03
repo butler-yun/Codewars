@@ -29,6 +29,7 @@ Learn JavaScript
 - [Fix string case](https://www.codewars.com/kata/5b180e9fedaa564a7000009a)
 - [max diff - easy](https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095)
 - [Array element parity](https://www.codewars.com/kata/5a092d9e46d843b9db000064)
+- [Ordered Count of Characters](https://www.codewars.com/kata/57a6633153ba33189e000074)
 
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
