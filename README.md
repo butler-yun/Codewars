@@ -63,3 +63,4 @@ Learn JavaScript
 - [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79)
 - [Find Multiples of a Number](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
 - [Capitalization and Mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
+- [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
