@@ -31,6 +31,7 @@ Learn JavaScript
 - [Array element parity](https://www.codewars.com/kata/5a092d9e46d843b9db000064)
 - [Ordered Count of Characters](https://www.codewars.com/kata/57a6633153ba33189e000074)
 - [The Skiponacci Sequence](https://www.codewars.com/kata/580777ee2e14accd9f000165)
+- [Removing Elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2)
 
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
@@ -67,4 +68,3 @@ Learn JavaScript
 - [Capitalization and Mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
 - [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
 - [Short long short](https://www.codewars.com/kata/50654ddff44f800200000007)
-- [Removing Elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2)
