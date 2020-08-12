@@ -69,3 +69,4 @@ Learn JavaScript
 - [Capitalization and Mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
 - [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
 - [Short long short](https://www.codewars.com/kata/50654ddff44f800200000007)
+- [Tip Calculator](https://www.codewars.com/kata/56598d8076ee7a0759000087)
