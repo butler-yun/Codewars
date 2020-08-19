@@ -33,7 +33,8 @@ Learn JavaScript
 - [Ordered Count of Characters](https://www.codewars.com/kata/57a6633153ba33189e000074)
 - [The Skiponacci Sequence](https://www.codewars.com/kata/580777ee2e14accd9f000165)
 - [Removing Elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2)
-- [Running out of space](https://www.codewars.com/kata/56576f82ab83ee8268000059)
+- [Running out of space](https://www.codewars.com/kata/56576f82ab83ee8268000059)(
+- [Diagonals sum](https://www.codewars.com/kata/5592fc599a7f40adac0000a8)
 
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
