@@ -73,3 +73,4 @@ Learn JavaScript
 - [Short long short](https://www.codewars.com/kata/50654ddff44f800200000007)
 - [Tip Calculator](https://www.codewars.com/kata/56598d8076ee7a0759000087)
 - [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4)
+- [Quarter of the year](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)
