@@ -75,3 +75,4 @@ Learn JavaScript
 - [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4)
 - [Quarter of the year](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)
 - [Get the mean of an array](https://www.codewars.com/kata/563e320cee5dddcf77000158)
+- [N-th Power](https://www.codewars.com/kata/57d814e4950d8489720008db)
