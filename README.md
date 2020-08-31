@@ -6,6 +6,7 @@ Learn JavaScript
 - [Reversing a Process](https://www.codewars.com/kata/5dad6e5264e25a001918a1fc)
 - [Encrypt this!](https://www.codewars.com/kata/5848565e273af816fb000449)
 - [Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b)
+- [Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)
 
 ## [7kyu]
 - [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)
