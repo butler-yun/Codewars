@@ -79,3 +79,4 @@ Learn JavaScript
 - [N-th Power](https://www.codewars.com/kata/57d814e4950d8489720008db)
 - [Parse float](https://www.codewars.com/kata/57a386117cb1f31890000039)
 - [No zeros for heros](https://www.codewars.com/kata/570a6a46455d08ff8d001002)
+- [Hello, Name or World!](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
