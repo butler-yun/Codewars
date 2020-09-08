@@ -8,6 +8,7 @@ Learn JavaScript
 - [Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b)
 - [Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)
 - [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+- [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
 
 ## [7kyu]
 - [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)
