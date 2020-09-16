@@ -85,3 +85,4 @@ Learn JavaScript
 - [Hello, Name or World!](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
 - [Grasshopper – Grade book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5)
 - [Counting sheep](https://www.codewars.com/kata/54edbc7200b811e956000556)
+- [I love you, a little , a lot, passionately … not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)
