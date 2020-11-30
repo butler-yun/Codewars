@@ -40,6 +40,8 @@ Learn JavaScript
 - [Diagonals sum](https://www.codewars.com/kata/5592fc599a7f40adac0000a8)
 - [Testing 1-2-3](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
 - [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)
+- [Uglify Word](https://www.codewars.com/kata/5ce6cf94cb83dc0020da1929)
+
 
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
