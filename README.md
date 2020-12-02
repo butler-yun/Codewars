@@ -9,6 +9,7 @@ Learn JavaScript
 - [Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)
 - [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 - [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
+- [Simple frequency sort](https://www.codewars.com/kata/5a8d2bf60025e9163c0000bc)
 
 ## [7kyu]
 - [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)
