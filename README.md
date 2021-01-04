@@ -43,7 +43,7 @@ Learn JavaScript
 - [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)
 - [Uglify Word](https://www.codewars.com/kata/5ce6cf94cb83dc0020da1929)
 - [Valid Spacing](https://www.codewars.com/kata/5f77d62851f6bc0033616bd8/javascript)
-
+- [Limit string legnth -1](https://www.codewars.com/kata/5208fc3cb613bc725f000142)
 
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
