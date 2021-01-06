@@ -11,6 +11,7 @@ Learn JavaScript
 - [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
 - [Simple frequency sort](https://www.codewars.com/kata/5a8d2bf60025e9163c0000bc)
 - [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
+- [Sum two arrays](https://www.codewars.com/kata/59c3e8c9f5d5e40cab000ca6)
 
 ## [7kyu]
 - [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)
