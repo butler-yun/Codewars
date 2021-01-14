@@ -14,6 +14,7 @@ Learn JavaScript
 - [Sum two arrays](https://www.codewars.com/kata/59c3e8c9f5d5e40cab000ca6)
 - [Simple string indices](https://www.codewars.com/kata/5a24254fe1ce0ec2eb000078)
 - [String Breakers](https://www.codewars.com/kata/59d398bb86a6fdf100000031)
+- [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 
 ## [7kyu]
 - [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)
