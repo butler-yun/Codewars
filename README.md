@@ -16,6 +16,7 @@ Learn JavaScript
 - [String Breakers](https://www.codewars.com/kata/59d398bb86a6fdf100000031)
 - [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 - [Monkey Talk](https://www.codewars.com/kata/59f897ecc374cb9ed90000c2)
+- [SumFibs](https://www.codewars.com/kata/56662e268c0797cece0000bb)
 
 ## [7kyu]
 - [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)
