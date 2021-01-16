@@ -99,3 +99,4 @@ Learn JavaScript
 - [Grasshopper – Grade book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5)
 - [Counting sheep](https://www.codewars.com/kata/54edbc7200b811e956000556)
 - [I love you, a little , a lot, passionately … not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)
+- [Super Duper Easy](https://www.codewars.com/kata/55a5bfaa756cfede78000026)
