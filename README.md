@@ -17,6 +17,7 @@ Learn JavaScript
 - [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 - [Monkey Talk](https://www.codewars.com/kata/59f897ecc374cb9ed90000c2)
 - [SumFibs](https://www.codewars.com/kata/56662e268c0797cece0000bb)
+- [Complete Fibonacci Series](https://www.codewars.com/kata/5239f06d20eeab9deb00049b)
 
 ## [7kyu]
 - [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)
