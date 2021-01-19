@@ -18,6 +18,7 @@ Learn JavaScript
 - [Monkey Talk](https://www.codewars.com/kata/59f897ecc374cb9ed90000c2)
 - [SumFibs](https://www.codewars.com/kata/56662e268c0797cece0000bb)
 - [Complete Fibonacci Series](https://www.codewars.com/kata/5239f06d20eeab9deb00049b)
+- [Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
 
 ## [7kyu]
 - [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)
