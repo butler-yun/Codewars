@@ -19,6 +19,7 @@ Learn JavaScript
 - [SumFibs](https://www.codewars.com/kata/56662e268c0797cece0000bb)
 - [Complete Fibonacci Series](https://www.codewars.com/kata/5239f06d20eeab9deb00049b)
 - [Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
+- [Even Binary Sorting](https://www.codewars.com/kata/582bbdbcc190132e3e0001f3)
 
 ## [7kyu]
 - [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)
