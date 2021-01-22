@@ -1,6 +1,9 @@
 # Codewars
 Learn JavaScript
 
+## [5kyu]
+- [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
+
 ## [6kyu]
 - [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 - [Reversing a Process](https://www.codewars.com/kata/5dad6e5264e25a001918a1fc)
