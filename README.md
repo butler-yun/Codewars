@@ -61,6 +61,7 @@ Learn JavaScript
 - [Limit string legnth -1](https://www.codewars.com/kata/5208fc3cb613bc725f000142)
 - [Rotate to the max](https://www.codewars.com/kata/579fa665bb9944f9340005d2)
 - [Drawing a Cross](https://www.codewars.com/kata/59d398bb86a6fdf100000031)
+- [Love vs friendship](https://www.codewars.com/kata/59706036f6e5d1e22d000016)
 
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
