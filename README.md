@@ -25,6 +25,7 @@ Learn JavaScript
 - [Even Binary Sorting](https://www.codewars.com/kata/582bbdbcc190132e3e0001f3)
 - [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
 - [Consecutive Count](https://www.codewars.com/kata/59c3e819d751df54e9000098)
+- [zipWith](https://www.codewars.com/kata/5825792ada030e9601000782)
 
 ## [7kyu]
 - [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)
