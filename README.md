@@ -27,6 +27,7 @@ Learn JavaScript
 - [Consecutive Count](https://www.codewars.com/kata/59c3e819d751df54e9000098)
 - [zipWith](https://www.codewars.com/kata/5825792ada030e9601000782)
 - [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148)
+- [Message Validator](https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc)
 
 ## [7kyu]
 - [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)
