@@ -116,3 +116,4 @@ Learn JavaScript
 - [I love you, a little , a lot, passionately … not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)
 - [Super Duper Easy](https://www.codewars.com/kata/55a5bfaa756cfede78000026)
 - [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003)
+- [Filter out the geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)
