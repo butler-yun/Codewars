@@ -117,3 +117,4 @@ Learn JavaScript
 - [Super Duper Easy](https://www.codewars.com/kata/55a5bfaa756cfede78000026)
 - [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003)
 - [Filter out the geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)
+- [Cat Years, Dog years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b)
