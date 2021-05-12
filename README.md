@@ -120,3 +120,4 @@ Learn JavaScript
 - [Cat Years, Dog years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b)
 - [Generate range of integers](https://www.codewars.com/kata/55eca815d0d20962e1000106)
 - [Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)
+- [Do you speak “English”?](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058)
