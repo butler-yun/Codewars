@@ -67,6 +67,7 @@ Learn JavaScript
 - [Rotate to the max](https://www.codewars.com/kata/579fa665bb9944f9340005d2)
 - [Drawing a Cross](https://www.codewars.com/kata/59d398bb86a6fdf100000031)
 - [Love vs friendship](https://www.codewars.com/kata/59706036f6e5d1e22d000016)
+- [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
 
 ## [8kyu]
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
@@ -121,5 +122,3 @@ Learn JavaScript
 - [Generate range of integers](https://www.codewars.com/kata/55eca815d0d20962e1000106)
 - [Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)
 - [Do you speak “English”?](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058)
-
-- test
